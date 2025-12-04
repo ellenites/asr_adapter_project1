@@ -1,4 +1,4 @@
- ### ASR Fellowship Challenge – Adapter Fine-Tuning
+## ASR Fellowship Challenge – Adapter Fine-Tuning
 
 ## Overview
 
