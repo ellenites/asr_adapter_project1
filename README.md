@@ -1,4 +1,4 @@
- ASR Fellowship Challenge – Adapter Fine-Tuning
+ ### ASR Fellowship Challenge – Adapter Fine-Tuning
 
 ## Overview
 
@@ -34,8 +34,8 @@ Adapters allow domain-specific fine-tuning without catastrophic forgetting by in
 ### 1. Clone the repository
 
 ```bash
-git clone 
-cd <your-repo-folder>
+git clone https://github.com/ellenites/asr_adapter_project1.git
+cd asr_adapter_project1
 ```
 
 ### 2. Install dependencies
